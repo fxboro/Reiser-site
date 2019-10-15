@@ -4,9 +4,12 @@
 
 .large-hero__text-content {
     position: absolute;
-    top: 0;
-    left: 0;
+    top: 50%;
     transform: translateY(-50%);
     width: 100%;
     align-content: center;
+}
+
+.large-hero__title{
+    font-weight: 300;
 }
